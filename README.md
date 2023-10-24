@@ -1,14 +1,17 @@
-Projeto
-ONEBITFLIX<br>
+Projeto ONEBITFLIX<br>
+
 ⚠️ Neste projeto, eu treino todos os conceitos ensinados no curso Programador Full-Stack em JavaScript da onebitcode.<br>
+
 
 Resumo dos conteúdos aplicados<br>
 Painel administrativo utilizado Admin.js<br>
 Construção de API com Node.js e sequelize<br>
 PostgreSQL<br>
 
+
 🧠 Contexto<br>
 O objetivo do projeto foi criar o back-end de uma aplicação EAD de cursos inspirado netflix, aprofundar meus conhecimentos em programação através da construção de uma aplicação completa do back-end ao front-end e enriquecer o meu portfólio.<br>
+
 
 Tecnologias usadas<br>
 
@@ -22,8 +25,10 @@ jsonwebtoken:	é um Framework para criação de dados com assinatura opcional e/
 cors:	é um Framework que permite que um site acesse recursos de outro site mesmo estando em domínios diferentes.<br>
 npm:	gerenciador de pacotes<br>
 
+
 Como rodar o projeto localmente<br>
 Siga os passos e inclua as informações abaixo:<br>
+
 
 Passo	Comando/informação<br>
 Faça o fork	botão de forkar<br>
@@ -32,6 +37,7 @@ Instale as dependências após acessar a pasta projeto:<br>
 -npm i<br>
 Rode o projeto:<br>
 -npm run dev<br>
+
 
 😎 Concluído<br>
 Criação do banco de dados -criação das tabelas(categoria, cursos e episódio) e seus relacionamentos.<br>
