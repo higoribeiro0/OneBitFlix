@@ -1,43 +1,44 @@
 Projeto
-ONEBITFLIX
-⚠️ Neste projeto, eu treino todos os conceitos ensinados no curso Programador Full-Stack em JavaScript da onebitcode.
+ONEBITFLIX<br>
+⚠️ Neste projeto, eu treino todos os conceitos ensinados no curso Programador Full-Stack em JavaScript da onebitcode.<br>
 
-Resumo dos conteúdos aplicados
-Painel administrativo utilizado Admin.js
-Construção de API com Node.js e sequelize
-PostgreSQL
-🧠 Contexto
-O objetivo do projeto foi criar o back-end de uma aplicação EAD de cursos inspirado netflix, aprofundar meus conhecimentos em programação através da construção de uma aplicação completa do back-end ao front-end e enriquecer o meu portfólio.
+Resumo dos conteúdos aplicados<br>
+Painel administrativo utilizado Admin.js<br>
+Construção de API com Node.js e sequelize<br>
+PostgreSQL<br>
 
-Tecnologias usadas
+🧠 Contexto<br>
+O objetivo do projeto foi criar o back-end de uma aplicação EAD de cursos inspirado netflix, aprofundar meus conhecimentos em programação através da construção de uma aplicação completa do back-end ao front-end e enriquecer o meu portfólio.<br>
 
-node.js: linguagem de desenvolvimento do lado do servidor
-sequelize:	é um ORM para Node.js baseado em Promises, para os bancos PostgreSQL, MySQL, MariaDB, SQLite e MS SQL Server.
-express:	é um framework para Node.js que fornece recursos mínimos para construção de servidores web
-postgreSQL:	sistema gerenciador de banco de dados objeto-relacional baseado no POSTGRES
-admin.js:	é uma interface de administração automática que pode ser utilizada para conectar aplicação ao banco de dados
-bcrypt:	Biblioteca utilizada para encripitar texto “puro” em dados indecifráveis
-jsonwebtoken:	é um Framework para criação de dados com assinatura opcional e/ou criptografia.
-cors:	é um Framework que permite que um site acesse recursos de outro site mesmo estando em domínios diferentes.
-npm:	gerenciador de pacotes
+Tecnologias usadas<br>
 
-Como rodar o projeto localmente
-Siga os passos e inclua as informações abaixo:
+node.js: linguagem de desenvolvimento do lado do servidor.<br>
+sequelize:	é um ORM para Node.js baseado em Promises, para os bancos PostgreSQL, MySQL, MariaDB, SQLite e MS SQL Server.<br>
+express:	é um framework para Node.js que fornece recursos mínimos para construção de servidores web.<br>
+postgreSQL:	sistema gerenciador de banco de dados objeto-relacional baseado no POSTGRES.<br>
+admin.js:	é uma interface de administração automática que pode ser utilizada para conectar aplicação ao banco de dados.<br>
+bcrypt:	Biblioteca utilizada para encripitar texto “puro” em dados indecifráveis.<br>
+jsonwebtoken:	é um Framework para criação de dados com assinatura opcional e/ou criptografia.<br>
+cors:	é um Framework que permite que um site acesse recursos de outro site mesmo estando em domínios diferentes.<br>
+npm:	gerenciador de pacotes<br>
 
-Passo	Comando/informação
-Faça o fork	botão de forkar
-Faça o clone	git clone
-Instale as dependências após acessar a pasta projeto
--npm i
-Rode o projeto
--npm run dev
+Como rodar o projeto localmente<br>
+Siga os passos e inclua as informações abaixo:<br>
 
-😎 Concluído
-Criação do banco de dados -criação das tabelas(categoria, cursos e episódio) e seus relacionamentos
-Criação e conexão do painel administrativos utilizando o Admin.js
-Criação de endPoints(curos categorias e vídeo)
-Criação e configuração do relacionamento tabela Usuários
-Criação de um endpoint de autenticação do usuário com json web token
-Criação de endpoint de favoritos
-Adição de progresso de um episódio
-Criação de endpoints de obter informação e atualização de usuários
+Passo	Comando/informação<br>
+Faça o fork	botão de forkar<br>
+Faça o clone	git clone<br>
+Instale as dependências após acessar a pasta projeto:<br>
+-npm i<br>
+Rode o projeto:<br>
+-npm run dev<br>
+
+😎 Concluído<br>
+Criação do banco de dados -criação das tabelas(categoria, cursos e episódio) e seus relacionamentos.<br>
+Criação e conexão do painel administrativos utilizando o Admin.js.<br>
+Criação de endPoints(curos categorias e vídeo).<br>
+Criação e configuração do relacionamento tabela Usuários.<br>
+Criação de um endpoint de autenticação do usuário com json web token.<br>
+Criação de endpoint de favoritos.<br>
+Adição de progresso de um episódio.<br>
+Criação de endpoints de obter informação e atualização de usuários.<br>
