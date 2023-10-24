@@ -1,23 +1,22 @@
 <div align="center">
-Projeto ONEBITFLIX<br>
-</div>
+Projeto ONEBITFLIX
+</div><br>
 ⚠️ Neste projeto, eu treino todos os conceitos ensinados no curso Programador Full-Stack em JavaScript da onebitcode.<br>
 
-<div align="center">
 Resumo dos conteúdos aplicados<br>
-</div>
+
 Painel administrativo utilizado Admin.js<br>
 Construção de API com Node.js e sequelize<br>
 PostgreSQL<br>
 
-<div align="center">
+
 🧠 Contexto<br>
-</div>
+
 O objetivo do projeto foi criar o back-end de uma aplicação EAD de cursos inspirado netflix, aprofundar meus conhecimentos em programação através da construção de uma aplicação completa do back-end ao front-end e enriquecer o meu portfólio.<br>
 
-<div align="center">
+
 Tecnologias usadas<br>
-</div>
+
 node.js: linguagem de desenvolvimento do lado do servidor.<br>
 sequelize:	é um ORM para Node.js baseado em Promises, para os bancos PostgreSQL, MySQL, MariaDB, SQLite e MS SQL Server.<br>
 express:	é um framework para Node.js que fornece recursos mínimos para construção de servidores web.<br>
@@ -32,9 +31,9 @@ npm:	gerenciador de pacotes<br>
 Como rodar o projeto localmente<br>
 Siga os passos e inclua as informações abaixo:<br>
 
-<div align="center">
+
 Passo	Comando/informação<br>
-</div>
+
 Faça o fork	botão de forkar<br>
 Faça o clone	git clone<br>
 Instale as dependências após acessar a pasta projeto:<br>
@@ -42,9 +41,9 @@ Instale as dependências após acessar a pasta projeto:<br>
 Rode o projeto:<br>
 -npm run dev<br>
 
-<div align="center">
+
 😎 Concluído<br>
-</div>
+
 Criação do banco de dados -criação das tabelas(categoria, cursos e episódio) e seus relacionamentos.<br>
 Criação e conexão do painel administrativos utilizando o Admin.js.<br>
 Criação de endPoints(curos categorias e vídeo).<br>
