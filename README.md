@@ -27,8 +27,10 @@ Siga os passos e inclua as informações abaixo:
 Passo	Comando/informação
 Faça o fork	botão de forkar
 Faça o clone	git clone
-Instale as dependências após acessar a pasta projeto	npm i
-Rode o projeto	npm run dev
+Instale as dependências após acessar a pasta projeto
+-npm i
+Rode o projeto
+-npm run dev
 
 😎 Concluído
 Criação do banco de dados -criação das tabelas(categoria, cursos e episódio) e seus relacionamentos
